@@ -71,6 +71,7 @@ Step 8: Check if monthlyChange is less than the current values of the first reco
 Step 9: Log in the averageChange new values by dividing the ‘toalChange ‘values by the current number of the finances months array  
 Step 10: assign the rounding up the number to the nearest 100th to a rounded variable  
 
+-- CREDIT to ChatGPT that directed me to the way of starting a new line in README file
 
 
 ## 4- Translating the pseudocode into an actual JS code:
