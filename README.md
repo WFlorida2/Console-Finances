@@ -19,7 +19,7 @@ Xpert Learning Assistant
 
 2- A developer who wishes to access the back-end files for this page will need to:  
  * Have access to github Account to be able to open the repo via the following link : " "  
- * Access to VSCode or similar tool to see the code via the following URL " ".   
+ * Access to VSCode or similar tool to see the code via the following GitHub URL " ".   
 
 ## CREDITS:
 ### Credit to Ana and Sebestian on the Discord group of helping me out with couple of issues
