@@ -3,7 +3,6 @@ const finances =[
   {monthYear:'Jan-2010', profitLoss:867884},
   {monthYear:'Feb-2010', profitLoss:984655},
   {monthYear:'Mar-2010', profitLoss:322013},
-  {monthYear:'Jan-2010', profitLoss:867884},
   {monthYear:'Apr-2010', profitLoss:-69417},
   {monthYear:'May-2010', profitLoss:310503},
   {monthYear:'Jun-2010', profitLoss:522857},
