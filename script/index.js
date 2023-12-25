@@ -146,3 +146,4 @@ const finances =[
   const result = financialAnalysis(finances);
   // console.log(analysisResult);
 
+
