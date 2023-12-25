@@ -14,7 +14,7 @@ W3School
 ChatGPT
 Xpert Learning Assistant
 
-Installation:
+## Installation:
 1- Installation: An end user will only need to access the page via their browser using the following URL: " " and naviagte to Inspect the page. To find out how to do that, please type in the following in a ChatGPT site ' How to see a console for a page in a browser'  
 
 2- A developer who wishes to access the back-end files for this page will need to:  
