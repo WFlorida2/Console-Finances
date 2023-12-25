@@ -56,20 +56,20 @@ Final code should print the analysis to the console.
 
 ## 3- Writing the pseudocode:
 
-Step: 1 : Declare values to finances Variable's array and assign to const (finances)
-Step 2 : Create a main Function to contain looping through each record of the finances array and assign values after each loop step calculations
-Step 3: Verify that array holds at least 2 records to perform calculations.
-Step 4: Declare variables that will be used to display results in console
-Step 5: Initiate a ‘for’ loop that will set i=0 , then if i < the length of the array
-              // then increment i values by one. 
-              // Then add the finance i record (that is the value of profit or loss) and then assign it to var (totalProfitLoss)
-Step 6: for each i (finance record in the array), do assign the values of that finance record minus
-              // the values of the finance record before it and assign the values to a variable monthlyChange
-              // and add this new monthlyChange to the existing totalChange values
-Step 7: Check if monthlyChange is greater than the current values of the first record listed under ProfitLoss. If it is, then assign month & year as well as ‘profiltLoss’ from the current monthlyChange values to the variable ‘greateastIncrease’
-Step 8: Check if monthlyChange is less than the current values of the first record listed under ProfitLoss. If it is, then assign month & year as well as ‘profiltLoss’ from the current monthlyChange values to the variable ‘greateastIncrease’
-Step 9: Log in the averageChange new values by dividing the ‘toalChange ‘values by the current number of the finances months array
-Step 10: assign the rounding up the number to the nearest 100th to a rounded variable
+Step: 1 : Declare values to finances Variable's array and assign to const (finances)  
+Step 2 : Create a main Function to contain looping through each record of the finances array and assign values after each loop step calculations  
+Step 3: Verify that array holds at least 2 records to perform calculations  
+Step 4: Declare variables that will be used to display results in console  
+Step 5: Initiate a ‘for’ loop that will set i=0 , then if i < the length of the array  
+              // then increment i values by one.  
+              // Then add the finance i record (that is the value of profit or loss) and then assign it to var (totalProfitLoss)  
+Step 6: for each i (finance record in the array), do assign the values of that finance record minus  
+              // the values of the finance record before it and assign the values to a variable monthlyChange  
+              // and add this new monthlyChange to the existing totalChange values  
+Step 7: Check if monthlyChange is greater than the current values of the first record listed under ProfitLoss. If it is, then assign month & year as well as ‘profiltLoss’ from the current monthlyChange values to the variable ‘greateastIncrease’  
+Step 8: Check if monthlyChange is less than the current values of the first record listed under ProfitLoss. If it is, then assign month & year as well as ‘profiltLoss’ from the current monthlyChange values to the variable ‘greateastIncrease’  
+Step 9: Log in the averageChange new values by dividing the ‘toalChange ‘values by the current number of the finances months array  
+Step 10: assign the rounding up the number to the nearest 100th to a rounded variable  
 
 
 
