@@ -15,9 +15,11 @@ ChatGPT
 Xpert Learning Assistant
 
 Installation:
-Installation An end user will only need to access the page via their browser using the following URL: " " A developer who wishes to access the back-end files for this page will need to: 1- have access to github Account to be able to open the repo via the following link : " "
+1- Installation: An end user will only need to access the page via their browser using the following URL: " " and naviagte to Inspect the page. To find out how to do that, please type in the following in a ChatGPT site ' How to see a console for a page in a browser'  
 
-2- Access to VSCode or similar tool to see the code and be able to modify if needed Usage Only needed a browser and the provided URL for the page above to be able to use the site live
+2- A developer who wishes to access the back-end files for this page will need to:  
+ * Have access to github Account to be able to open the repo via the following link : " "  
+ * Access to VSCode or similar tool to see the code via the following URL " ".   
 
 ## CREDITS:
 ### Credit to Ana and Sebestian on the Discord group of helping me out with couple of issues
