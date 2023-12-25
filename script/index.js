@@ -125,7 +125,7 @@ const finances =[
           {
               greatestDecrease = { monthYear: finances[i].monthYear, profitLoss: monthlyChange };
           }
-                  }
+                }
                                               }
       // Step 9: Log in the averageChange new values by dividing the toalChange values by the current number of the finances months array
   let averageChange = totalChange / (finances.length -1);
