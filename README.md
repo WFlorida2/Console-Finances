@@ -21,9 +21,9 @@ Installation An end user will only need to access the page via their browser usi
 
 ## CREDITS:
 ### Credit to Ana and Sebestian on the Discord group of helping me out with couple of issues
-https://chat.openai.com/
-Xpert Learning Assistant
-W3School
+https://chat.openai.com/  
+Xpert Learning Assistant  
+W3School  
 
 
 # Pseudocode:
