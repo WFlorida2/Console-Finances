@@ -1,8 +1,9 @@
-  // Step: 1 : Declare values to finances Variable's array and assign to const (finances)
+// Step: 1 : Declare values to finances Variable's array and assign to const (finances)
 const finances =[   
   {monthYear:'Jan-2010', profitLoss:867884},
   {monthYear:'Feb-2010', profitLoss:984655},
   {monthYear:'Mar-2010', profitLoss:322013},
+  {monthYear:'Jan-2010', profitLoss:867884},
   {monthYear:'Apr-2010', profitLoss:-69417},
   {monthYear:'May-2010', profitLoss:310503},
   {monthYear:'Jun-2010', profitLoss:522857},
@@ -108,7 +109,7 @@ const finances =[
       // Step 5: Intiate a for loop that will set i=0 , then if i < the length of the array
       // then increnment i values by one. 
       // Then add the finance i record (that is the value of profit or loss) and then assign it to var (totalProfitLoss)
-  for (let i = 0; i < finances.length; i++) {totalProfitLoss += finances[i].profitLoss;
+      for (let i = 0; i < finances.length; i++) {totalProfitLoss += finances[i].profitLoss;
       // Step 6: for each i (finance record in the array), do assign the values of that finance record minus
       // the values of the finance record before it and assign the values to a variable monthlyChange
       // and add this new monthlyChange to the exsisting totalChange values
@@ -141,11 +142,8 @@ const finances =[
   console.log("Greatest Increase in Profit/Losses: ",greatestIncrease);
   console.log("Greatest Decrease in Profit/Losses: ",greatestDecrease);
 
-      // Step 11: loop for next record till end of array
-
 }
-  // Pauses the loop until the user clicks OK
 
   const result = financialAnalysis(finances);
-  alert ("press OK to continue");
   // console.log(analysisResult);
+
