@@ -19,10 +19,11 @@ Installation An end user will only need to access the page via their browser usi
 
 2- Access to VSCode or similar tool to see the code and be able to modify if needed Usage Only needed a browser and the provided URL for the page above to be able to use the site live
 
-CREDITS:
-    https://chat.openai.com/
-    Xpert Learning Assistant
-    W3School
+## CREDITS:
+### https://chat.openai.com/
+### Xpert Learning Assistant
+### W3School
+
 
 # Pseudocode:
 
