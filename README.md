@@ -88,6 +88,9 @@ o	// and add this new monthlyChange to the existing totalChange values
 
 ![Flowchart](./images/Flowchart.png)
 
+# End result:
+![End result](./images/End%20result.png)
+
 ￼
 
     
