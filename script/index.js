@@ -138,8 +138,8 @@
     console.log("Total Months: ", totalMonths);
     console.log("Total: " + "$"+ totalProfitLoss);
     console.log("Average Change: ",rounded);
-    console.log("Greatest Increase in Profit/Losses: ",greatestIncrease);
-    console.log("Greatest Decrease in Profit/Losses: ",greatestDecrease);
+    console.log("Greatest Increase in Profit/Losses: " + greatestIncrease.monthYear + " ($" + greatestIncrease.profitLoss + ")");
+    console.log("Greatest Decrease in Profit/Losses: " + greatestDecrease.monthYear + " ($" + greatestDecrease.profitLoss + ")");
 
     }
     const result = financialAnalysis(finances);
